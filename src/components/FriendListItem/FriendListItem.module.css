@@ -1,0 +1,25 @@
+.friendItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.friendName {
+  font-size: 40px;
+  font-weight: 600;
+  color: black;
+}
+
+.friendAvatar {
+  width: 130px;
+  margin-bottom: 20px;
+}
+
+.online {
+  font-size: 32px;
+  color: green;
+}
+.offline {
+  font-size: 32px;
+  color: red;
+}
