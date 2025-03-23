@@ -23,6 +23,7 @@
   border-radius: 50%;
   background-color: #0d1717;
   width: 150px;
+  margin-bottom: 15px;
 }
 
 .title {
@@ -38,7 +39,7 @@
 
 .statusList {
   display: flex;
-  border-top: 1px solid #777b7e;
+  border-top: 1px solid #4f4f4f;
   width: 100%;
 }
 
